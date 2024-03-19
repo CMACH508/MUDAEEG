@@ -23,3 +23,9 @@ To test the model, use this command:
 ```
 python test.py --target 'isruc'
 ```
+
+The "data" directory is used to store data
+
+The "kfold" directory is used to store the training set and test machine list of K-fold experiments
+
+The "model" directory is used to store the model
