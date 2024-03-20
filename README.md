@@ -24,6 +24,10 @@ To test the model, use this command:
 python test.py --target 'isruc'
 ```
 
+## Trained model path
+https://pan.baidu.com/s/1D_2G8_pZtt4G3Wp5nKSdCQ?pwd=9mxc 
+code：9mxc
+
 The "data" directory is used to store data
 
 The "kfold" directory is used to store the training set and test machine list of K-fold experiments
