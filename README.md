@@ -1,6 +1,14 @@
 ### Multi-source unsupervised domain-adaptation for automatic sleep staging
 #### *by: Yangxin Zhu; Shikui Tu; Lin Zhang; Lei Xu
 
+##Directory description
+
+The "data" directory is used to store data
+
+The "kfold" directory is used to store the training set and test machine list of K-fold experiments
+
+The "model" directory is used to store the model
+
 ## Prepare datasets
 We used three public datasets in this study:
 - [SleepEDF-39](https://www.physionet.org/content/sleep-edf/1.0.0/)
@@ -26,10 +34,7 @@ python test.py --target 'isruc'
 
 ## Trained model path
 https://pan.baidu.com/s/1D_2G8_pZtt4G3Wp5nKSdCQ?pwd=9mxc 
+
 code：9mxc
 
-The "data" directory is used to store data
 
-The "kfold" directory is used to store the training set and test machine list of K-fold experiments
-
-The "model" directory is used to store the model
